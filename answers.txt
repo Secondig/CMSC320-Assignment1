@@ -10,3 +10,7 @@ Answer: Data science is an interdisciplinary field, combining computational and 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Git rebase reapply commits ontop of another base tip. On the other hand, git merge simply merges two developmental histories together. In other words, git merge combines changes from one branch into a different branch, while rebase moves changes from one branch to a different branch, but it does NOT combine changes. A nice difference I like to think too is that git merge helps maintain developmental history while git rebase can change that history.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I want to improve my data collecting skills, such as web scraping. I have always wondered how web scraping works and how people can just collect endless amount of information. I also want to improve my skills in SQL and pandas, as I used a bit of it during my internship, but I could not maxmimize my efforts due to my lack of knowledge in those areas.
