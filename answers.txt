@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science is an interdisciplinary field, combining computational and statistical techniques to gain insight in a given field. One field that data science is commonly used in is medicine. For example, you can use data science to analyze a patient's medical record and predict a disease outbreak. In other words, by looking at raw data like medical records, patient demographics, and lab results, you can later discover insights and predictions that assists in identifying patterns in patient data. These patterns can help predict diseaes outbreaks, optimize treatment plans, and provide insights for medical research.
